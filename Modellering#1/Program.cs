@@ -6,7 +6,19 @@ namespace Modellering_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine();
+            /*   
+                Tower Defense
+             * Towers/Torn
+                * direktion
+                * Fire Rate/"eldhastighet"
+                * Kill Counter/Slaktar Räknare
+             * Hp/Liv
+             * Enemies/Fiender
+                * mängd
+                * 
+             * Pengar?
+            */ 
+            Console.WriteLine("Hej!");
             Console.ReadLine();
         }
     }
