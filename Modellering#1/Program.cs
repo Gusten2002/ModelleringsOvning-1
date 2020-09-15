@@ -18,7 +18,15 @@ namespace Modellering_1
                 * 
              * Pengar?
             */ 
-            Console.WriteLine("Hej!");
+            Towers t = new Towers();
+            Enemies E = new Enemies();
+
+            t.name1 = "firetower";
+
+            E.Alive = 3;
+
+            Console.WriteLine(t);
+
             Console.ReadLine();
         }
     }
